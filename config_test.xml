@@ -1,0 +1,28 @@
+<MWconfig>
+  <grid>
+    <gridsize>
+      <Nx>660</Nx>
+      <Ny>660</Ny>
+    </gridsize>
+    <gridFilename></gridFilename>
+    <delta>
+      <deltax>1.000000</deltax>
+      <deltay>1.000000</deltay>
+    </delta>
+    <ixsL>160</ixsL>
+    <ixsR>160</ixsR>
+    <jysB>160</jysB>
+    <jysT>160</jysT>
+    <M>50</M>
+    <L>50</L>
+    <Typespongelayer>162</Typespongelayer>
+    <waveGeneration>
+      <line>TODO</line>      <jline>161</jline>
+      <iline>0</iline>
+    </waveGeneration>
+    <lenD>
+      <mu>1.040000</mu>
+      <aaa>60</aaa>
+    </lenD>
+  </grid>
+</MWconfig>

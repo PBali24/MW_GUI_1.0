@@ -1,0 +1,3 @@
+[submodule "MW_Library"]
+	path = MW_Library
+	url = https://github.com/aww-ugent/MW_4.1.git
